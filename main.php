@@ -195,7 +195,7 @@
                 <div id="menu-bar">
                     <button id="Discussion" name="discussion-fetch" type="submit" class="menu-bar" onclick="boldDiscussion()"><i class="fa fa-comment"></i><b> Discussion</b></button>
                     <button id="Roster" name="roster-fetch" type="submit" class="menu-bar" onclick="boldRoster()"><i class="fa fa-user"></i> Roster</button>
-                    <div id="Media" class="menu-bar" onclick="boldMedia()"><i class="fa fa-image"></i> Media</div>
+                    <div id="Media" class="menu-bar" onclick="boldMedia()"><i class="fa fa-laptop"></i> Collaboration</div>
                     <div style="width:20%"></div>
                 </div>
             </form>
